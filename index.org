@@ -1,0 +1,9 @@
+#+TTITLE: QCQI Home Page
+
+* Current Members
+** Arvind (Professor)
+** Jaskaran Singh (PhD)
+
+* Ex-Members
+** Atul Singh Arora (MS)
+** Kishor Bharti (MS)
