@@ -3,7 +3,7 @@
 
 #+TITLE: QCQI @ IISER Mohali
 
-The Quantum Computation and Quantum Information Group at the Indian Institute of Science Education and Research (IISER) Mohali, lead by Prof. Arvind, concerns itself with exploring methods to harness physics at the atomic scale to perform computational tasks. Usual (classical) computers use transistors which operate by using binary states. The state of any given signal can either 1 or 0 (or any other labels you like). Quantum computers allow for the state to be a combination of these, thereby facilitating the ability to harness computation power which was otherwise inaccessible. This approach has also engendered edification of foundational aspects of quantum physics, that which describes atomic phenomena.
+The Quantum Computation and Quantum Information Group at the Indian Institute of Science Education and Research (IISER) Mohali, led by Prof. Arvind, concerns itself with exploring methods to harness physics at the atomic scale to perform computational tasks. Usual (classical) computers use transistors which operate by using binary states. The state of any given signal can either 1 or 0 (or any other labels you like). Quantum computers allow for the state to be a combination of these, thereby facilitating the ability to harness computation power which was otherwise inaccessible. This approach has also engendered edification of foundational aspects of quantum physics, that which describes atomic phenomena.
 
 * News
 ** Convocation 2016
